@@ -179,7 +179,7 @@ function move(){
     navigator.vibrate(100);
   }
 }
-if(pcscore ==4){
+if(pcscore ==5){
     fill("#FFA500");
     stroke(0)
     rect(0,0,width,height-1);
